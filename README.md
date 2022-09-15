@@ -3,7 +3,9 @@
 
 This code is based on a public meta-rl github repository  [learn2learn](https://github.com/learnables/learn2learn/)
 
-Packages to run this code base:
+[Video of real world demonstrations on a TurtleBot](https://youtu.be/gdG9vfk5qJU)
+
+To run expirements you will need the the following packages:
 - cherry-rl 0.1.4
 - tensorboard 
 - learn2learn 
