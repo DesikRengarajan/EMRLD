@@ -1,5 +1,5 @@
 ## **Enhanced Meta Reinforcement Learning using Demonstrations in Sparse Reward Environments**
-Code for Enhanced Meta Reinforcement Learning using Demonstrations in Sparse Reward Environments
+Code for Enhanced Meta Reinforcement Learning using Demonstrations in Sparse Reward Environments (NeurIPS 2022)
 
 This code is based on a public meta-rl github repository  [learn2learn](https://github.com/learnables/learn2learn/)
 
